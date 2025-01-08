@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there 👋
+
+# My name is Krish Panjwani and I am a Computer Science student at UMass Boston
 
 <!--
 **KrishPanjwani/KrishPanjwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
